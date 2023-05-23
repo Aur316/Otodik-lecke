@@ -1,0 +1,14 @@
+Test 
+
+sudo apt install jest - telepites
+
+uj file letrehozni: package.json
+
+.json: 
+{
+  "scripts": {
+    "test": "jest"
+  }
+}
+
+npm run test
